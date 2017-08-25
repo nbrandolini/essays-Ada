@@ -7,12 +7,15 @@ As a young girl at school in communist Romania, I was always interested in math 
 
 But I never lost my love for math and logic problems, so when I began to use computers at my job, I became intrigued about not only what they could accomplish, but how they work. While working as an accountant for the past 20 years, I kept up with the latest software developments and helped train other employees. When the college I was working for decided to switch from Oracle Finance to the Banner Finance Module, I was chosen to be part of the implementation and training team for the Finance and Student Modules. I also taught new employees the system as part of their training and I always enjoyed it. 
 
-For the last few years I have been restless and I realized that accounting  it's not that exciting or challenging anymore, and that what I  actually enjoy more are the challenges of the new software. I wanted to know more about it, so last year I started looking for programing boot camps, and on a reddit post I found out about Ada. 
+For the last few years I have been restless and I realized that accounting  it's not that exciting or challenging anymore, and that what I  actually enjoy more are the challenges of the new software. I wanted to know more about it, so last year I started looking for programing boot camps, and on a reddit post I found out about Ada. I applied first chance I got, but didn't quite make it.
 
 In the meantime, I’ve started to teach myself some programming. I first went to a class on how to create a blog using www.blogger.com and www.wordpress.com, however that was not what I wanted. Following a set of instructions and templates on the screen was neither thought-provoking nor stimulating. 
+
 So, I started taking the introductory Python class at Udacity and Codecademy. Completing an exercise correctly is so exciting and addicting that oftentimes hours go by without my notice. 
 Recently, I also took a class in HTML5/CSS at my local public library, where I learned how to create a simple website for a “Handyman”, using the code editor Brackets. I was thrilled to be able to see the results immediately with the Live Preview in Google Chrome, and I ended up going back for more classes including the CSS ones, which I must say are a bit more challenging but also exciting. Having to use Markdown for this assignment seems easier after an HTML class :wink:
-Since I last applied to Ada I got even more involved into programing and as of now I am on a path of completing a nanodgree program at Udacity as a front-end web developer. I am at the point in the program where I am learning JavaScript Foundation. This class has been very good for me and makes me feel even stronger about wanting to learn more and become better at it. I love it!
+
+Since I last applied to Ada I got even more involved into programing and as of now I am on a path of completing a nanodgree program at Udacity as a front-end web developer. I am at the point in the program where I am learning JavaScript Foundation. This class has been very good for me and makes me feel even stronger about wanting to learn more and become better at it.
+
 I would love to have the opportunity to learn this material in a classroom setting. Having talented peers with whom to collaborate, and teachers to guide me, would help me immensely. I think Ada is a really unique place where all of this could happen for me, even though computers came into my life at a later time than for majority of people.
 
 ##Question 2.          
